@@ -8,4 +8,5 @@ public class ApplicantInfo {
 	public String address;
 	public String email;
 	public String phone;
+	public String url;
 }
