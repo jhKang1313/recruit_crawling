@@ -21,5 +21,5 @@ public class App {
     	MyLogger.log("파일 생성 완료");
     }
 }
-//Master
-//Master
+
+
