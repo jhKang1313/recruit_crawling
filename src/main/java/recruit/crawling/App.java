@@ -21,8 +21,3 @@ public class App {
     	MyLogger.log("파일 생성 완료");
     }
 }
-//AAAAA
-//AAAA
-//AAA
-//AA
-//A
