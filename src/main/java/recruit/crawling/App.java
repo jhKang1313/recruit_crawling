@@ -10,7 +10,7 @@ public class App {
     	/*ApplicantInfo test = new ApplicantInfo();
     	test.name = "강진혁";
     	test.gender = "남";
-    	test.birth = "1992";
+    	test.birth = "1992";//Test
     	test.phone = "01012345678";
     	
     	List<ApplicantInfo> list = new ArrayList<ApplicantInfo>();
