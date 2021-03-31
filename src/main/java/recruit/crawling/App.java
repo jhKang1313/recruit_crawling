@@ -9,7 +9,7 @@ public class App {
     	List<ApplicantInfo> list = site.readPage(site.login("backersm", "Qqaazz1!"));
     	/*ApplicantInfo test = new ApplicantInfo();
     	test.name = "강진혁";
-    	test.gender = "남";
+    	test.gender = "남";//Test1234
     	test.birth = "1992";//Test
     	test.phone = "01012345678";
     	
